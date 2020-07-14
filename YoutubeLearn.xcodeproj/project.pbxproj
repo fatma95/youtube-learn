@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F4940CC824BDF5EA005EE22A /* ConstantsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4940CC724BDF5EA005EE22A /* ConstantsTemplate.swift */; };
 		F4E1584924B4A33500DF77D2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4E1584824B4A33500DF77D2 /* AppDelegate.swift */; };
 		F4E1584B24B4A33500DF77D2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4E1584A24B4A33500DF77D2 /* SceneDelegate.swift */; };
 		F4E1584D24B4A33500DF77D2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4E1584C24B4A33500DF77D2 /* ViewController.swift */; };
@@ -39,6 +40,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F4940CC724BDF5EA005EE22A /* ConstantsTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsTemplate.swift; sourceTree = "<group>"; };
 		F4E1584524B4A33500DF77D2 /* YoutubeLearn.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YoutubeLearn.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4E1584824B4A33500DF77D2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F4E1584A24B4A33500DF77D2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 				F4E1585124B4A33600DF77D2 /* YoutubeLearn.xcdatamodeld */,
 				F4E1587B24B4FDFD00DF77D2 /* Constants.swift */,
 				F4E1587D24B5031600DF77D2 /* Video.swift */,
+				F4940CC724BDF5EA005EE22A /* ConstantsTemplate.swift */,
 			);
 			path = YoutubeLearn;
 			sourceTree = "<group>";
@@ -274,6 +277,7 @@
 				F4E1588024B505A900DF77D2 /* Model.swift in Sources */,
 				F4E1587C24B4FDFD00DF77D2 /* Constants.swift in Sources */,
 				F4E1587E24B5031600DF77D2 /* Video.swift in Sources */,
+				F4940CC824BDF5EA005EE22A /* ConstantsTemplate.swift in Sources */,
 				F4E1585324B4A33600DF77D2 /* YoutubeLearn.xcdatamodeld in Sources */,
 				F4E1584D24B4A33500DF77D2 /* ViewController.swift in Sources */,
 				F4E1584924B4A33500DF77D2 /* AppDelegate.swift in Sources */,
